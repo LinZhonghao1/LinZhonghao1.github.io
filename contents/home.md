@@ -6,12 +6,12 @@ He is currently a PhD student at the University of Tokyo.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 6384178554@edu.k.u-tokyo.ac.jp
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Marine Meteorology, Nanjing University of Information Science and Technology, 2021—2024.\
+B.E., Marine Science, Nanjing University of Information Science and Technology, 2017—2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+FVCOM, Marine Geophysics.
 
